@@ -1,0 +1,54 @@
+[12-May-2020 01:01:27 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:02:18 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:02:36 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:02:48 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:03:30 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:03:34 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:04:01 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:04:02 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:04:04 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'WPEntityTool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:04:20 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'Wpentitytool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:04:23 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Class 'Wpentitytool\App' not found in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console:12
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console on line 12
+[12-May-2020 01:18:09 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php on line 13
+[12-May-2020 01:18:14 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php on line 16
+[12-May-2020 01:18:25 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php on line 16
+[12-May-2020 01:18:52 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php on line 14
+[12-May-2020 01:19:11 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '*' in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php on line 15
+[12-May-2020 01:52:31 Australia/Brisbane] PHP Fatal error:  Uncaught Error: Call to undefined function Wpentitytool\template() in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php:31
+Stack trace:
+#0 /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/console(13): Wpentitytool\App->runCommand(Array)
+#1 {main}
+  thrown in /var/www/html/trudering/wp-content/plugins/av-calendar-alt/wpentitytool/lib/App.php on line 31

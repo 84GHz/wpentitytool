@@ -24,5 +24,5 @@ to generate meta fields for the custom post type:
 
 (enter the custom post machine name when asked)
 if you press enter when asked for the name of the next field, the code is written / overwritten.
-If you make a mistake and press Ctrl  + C before pressing Enter, then you can begin anew
+If you make a mistake you can press Ctrl  + C before pressing Enter, and then begin anew
 

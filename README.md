@@ -1,11 +1,12 @@
 # wpentitytool
-PHP based console tool to generate code for custom Wordpress Post-types and Meta fields for them (WIP)
+PHP based console tool to generate code for custom Wordpress Post-types and Meta fields for them (WIP).
+
 Have to write you own templates though.
 
 License: MIT
 
-Usage: create a plugin (many tutorials online ) for example with the wp-cli tool
-clone or extract this into the plugin directory 
+Usage: create a plugin (many tutorials online ) for example with the wp-cli tool,
+then clone or extract this into the plugin directory 
 
 into the plugin directory:
 
@@ -25,4 +26,3 @@ to generate meta fields for the custom post type:
 (enter the custom post machine name when asked)
 if you press enter when asked for the name of the next field, the code is written / overwritten.
 If you make a mistake you can press Ctrl  + C before pressing Enter, and then begin anew
-

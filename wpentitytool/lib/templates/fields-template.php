@@ -4,7 +4,7 @@
 *
 */
 if (!(class_exists(DynamicMetaBoxes))) {
-    require_once __DIR__ . '/includes/dynamicmetaboxes.php';
+    require_once __DIR__ . '/dynamicmetaboxes.php';
 }
 
 # ADD META BOXES - Fields in Worpress

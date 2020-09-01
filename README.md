@@ -1,5 +1,6 @@
 # wpentitytool
 PHP based console tool to generate code for custom Wordpress Post-types and Meta fields for them (WIP)
+Have to write you own templates though.
 
 License: MIT
 
